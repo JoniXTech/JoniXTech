@@ -1,3 +1,12 @@
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://user-images.githubusercontent.com/30528167/92789817-e4b53d80-f3b3-11ea-96a4-dad3ea09d237.png?raw=true');]{x0000}$}
-```
+### Hey I am JoniXTech! 👋
+
+- 📫 How to reach me: [Discord](https://discord.com/users/772850214318768138)
+- 🗺️ If you need help: [Discord Server](https://jonixtech.de/discord)
+- 💻 I use [Visual Studio Code](https://code.visualstudio.com)
+- 🔧 Coding in: JavaScript, Embedded JavaScript, TypeScript, Python
+- 📦 Node.js NPM Packages: Discord.js, Shoukaku, Express.js
+- 👤 Pronouns: he/him
+
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonixtech&show_icons=true&hide_border=true&theme=tokyonight" />
+
+<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonixtech&show_icons=true&theme=tokyonight&layout=compact" />
